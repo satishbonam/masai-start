@@ -1,0 +1,273 @@
+data/:
+total 32
+drwxr-xr-x 4 satish satish 4096 Jan 29 17:36 dummy
+drwxr-xr-x 2 satish satish 4096 Jan 29 18:20 dumps
+drwxr-xr-x 5 satish satish 4096 Jan 29 17:40 food
+drwxr-xr-x 2 satish satish 4096 Jan 29 17:36 junk
+drwxr-xr-x 2 satish satish 4096 Jan 29 17:36 lists
+drwxr-xr-x 4 satish satish 4096 Jan 29 18:20 logs
+drwxr-xr-x 2 satish satish 4096 Jan 29 17:36 numbers
+drwxr-xr-x 6 satish satish 4096 Jan 29 18:00 superheros
+
+data/dummy:
+total 8
+drwxr-xr-x 5 satish satish 4096 Jan 29 17:36 course
+drwxr-xr-x 2 satish satish 4096 Jan 29 17:36 json
+
+data/dummy/course:
+total 12
+drwxr-xr-x 2 satish satish 4096 Jan 29 17:36 all
+drwxr-xr-x 8 satish satish 4096 Jan 29 17:36 week_1
+drwxr-xr-x 7 satish satish 4096 Jan 29 17:36 week_2
+
+data/dummy/course/all:
+total 0
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 overall.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w1_d1_s1.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w1_d1_s2.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w1_d2_s1.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w1_d2_s2.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w1_d3_s1.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w1_d3_s2.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w1_d4_s1.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w1_d4_s2.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w1_d5_s1.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w1_d5_s2.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w2_d1_s1.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w2_d1_s2.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w2_d2_s1.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w2_d2_s2.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w2_d4_s1.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w2_d4_s2.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w2_d5_s1.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w2_d5_s2.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w3_d3_s1.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w3_d3_s2.txt
+
+data/dummy/course/week_1:
+total 20
+drwxr-xr-x 2 satish satish 4096 Jan 29 17:36 day_1
+drwxr-xr-x 2 satish satish 4096 Jan 29 17:36 day_2
+drwxr-xr-x 2 satish satish 4096 Jan 29 17:36 day_3
+drwxr-xr-x 2 satish satish 4096 Jan 29 17:36 day_4
+drwxr-xr-x 2 satish satish 4096 Jan 29 17:36 day_5
+
+data/dummy/course/week_1/day_1:
+total 0
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w1_d1_s1.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w1_d1_s2.txt
+
+data/dummy/course/week_1/day_2:
+total 0
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w1_d2_s1.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w1_d2_s2.txt
+
+data/dummy/course/week_1/day_3:
+total 0
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w1_d3_s1.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w1_d3_s2.txt
+
+data/dummy/course/week_1/day_4:
+total 0
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w1_d4_s1.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w1_d4_s2.txt
+
+data/dummy/course/week_1/day_5:
+total 0
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w1_d5_s1.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w1_d5_s2.txt
+
+data/dummy/course/week_2:
+total 20
+drwxr-xr-x 2 satish satish 4096 Jan 29 17:36 day_1
+drwxr-xr-x 2 satish satish 4096 Jan 29 17:36 day_2
+drwxr-xr-x 2 satish satish 4096 Jan 29 17:36 day_3
+drwxr-xr-x 2 satish satish 4096 Jan 29 17:36 day-4
+drwxr-xr-x 2 satish satish 4096 Jan 29 17:36 day_5
+
+data/dummy/course/week_2/day_1:
+total 0
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w2_d1_s1.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w2_d1_s2.txt
+
+data/dummy/course/week_2/day_2:
+total 0
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w2_d2_s1.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w2_d2_s2.txt
+
+data/dummy/course/week_2/day_3:
+total 0
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w3_d3_s1.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w3_d3_s2.txt
+
+data/dummy/course/week_2/day-4:
+total 0
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w2_d4_s1.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w2_d4_s2.txt
+
+data/dummy/course/week_2/day_5:
+total 0
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w2_d5_s1.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 w2_d5_s2.txt
+
+data/dummy/json:
+total 492
+-rw-r--r-- 1 satish satish  80747 Jan 29 17:36 cars_mileage.json
+-rw-r--r-- 1 satish satish 112567 Jan 29 17:36 company_valuations.json
+-rw-r--r-- 1 satish satish  98599 Jan 29 17:36 employee_salaries.json
+-rw-r--r-- 1 satish satish 103532 Jan 29 17:36 movies_collections.json
+-rw-r--r-- 1 satish satish  95889 Jan 29 17:36 student_marks.json
+
+data/dumps:
+total 0
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 2018.dump
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 2019.dump
+
+data/food:
+total 12
+drwxr-xr-x 2 satish satish 4096 Jan 29 17:40 fruits
+drwxr-xr-x 2 satish satish 4096 Jan 29 17:40 meats
+drwxr-xr-x 2 satish satish 4096 Jan 29 17:40 vegetables
+
+data/food/fruits:
+total 0
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 fruit_apple.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 fruit_banana.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 fruit_grapes.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 fruit_mango.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 fruit_orange.txt
+
+data/food/meats:
+total 0
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 meat_chicken.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 meat_eggs.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 meat_fish.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 meat_mutton.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 meat_prawns.txt
+
+data/food/vegetables:
+total 0
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 vegetable_beans.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 vegetable_beetroot.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 vegetable_brinjal.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 vegetable_carrot.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 vegetable_potato.txt
+
+data/junk:
+total 124
+-rw-r--r-- 1 satish satish 16370 Jan 29 17:36 city_names_orders_rand.csv
+-rw-r--r-- 1 satish satish  4194 Jan 29 17:36 emails_rand.txt
+-rw-r--r-- 1 satish satish 69347 Jan 29 17:36 marks_rand_2000.csv
+-rw-r--r-- 1 satish satish  1360 Jan 29 17:36 names_100.txt
+-rw-r--r-- 1 satish satish 25000 Jan 29 17:36 random_ids.txt
+
+data/lists:
+total 628
+-rw-r--r-- 1 satish satish 391996 Jan 29 17:36 colornames.csv
+-rw-r--r-- 1 satish satish  83017 Jan 29 17:36 common_passwords.txt
+-rw-r--r-- 1 satish satish   3670 Jan 29 17:36 countries.csv
+-rw-r--r-- 1 satish satish   7368 Jan 29 17:36 currency.csv
+-rw-r--r-- 1 satish satish 100507 Jan 29 17:36 github_languages.yml
+-rw-r--r-- 1 satish satish   8012 Jan 29 17:36 language.csv
+-rw-r--r-- 1 satish satish  15701 Jan 29 17:36 locales.json
+-rw-r--r-- 1 satish satish  23312 Jan 29 17:36 tld.txt
+
+data/logs:
+total 8
+drwxr-xr-x 2 satish satish 4096 Jan 29 18:17 access
+drwxr-xr-x 2 satish satish 4096 Jan 29 18:18 error
+
+data/logs/access:
+total 0
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 2019-01-access.log
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 2019-02-access.log
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 2019-03-access.log
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 2019-04-access.log
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 2019-05-access.log
+
+data/logs/error:
+total 0
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 2018-01-error.log
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 2018-02-error.log
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 2018-03-error.log
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 2018-04-error.log
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 2018-05-error.log
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 2018-06-error.log
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 2018-07-error.log
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 2018-08-error.log
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 2018-09-error.log
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 2018-10-error.log
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 2018-11-error.log
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 2018-12-error.log
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 2019-01-error.log
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 2019-02-error.log
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 2019-03-error.log
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 2019-04-error.log
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 2019-05-error.log
+
+data/numbers:
+total 36
+-rw-r--r-- 1 satish satish 2 Jan 29 17:36 even_2.txt
+-rw-r--r-- 1 satish satish 2 Jan 29 17:36 even_4.txt
+-rw-r--r-- 1 satish satish 2 Jan 29 17:36 even_6.txt
+-rw-r--r-- 1 satish satish 2 Jan 29 17:36 even_8.txt
+-rw-r--r-- 1 satish satish 2 Jan 29 17:36 odd_1.txt
+-rw-r--r-- 1 satish satish 2 Jan 29 17:36 odd_3.txt
+-rw-r--r-- 1 satish satish 2 Jan 29 17:36 odd_5.txt
+-rw-r--r-- 1 satish satish 2 Jan 29 17:36 odd_7.txt
+-rw-r--r-- 1 satish satish 2 Jan 29 17:36 odd_9.txt
+
+data/superheros:
+total 16
+drwxr-xr-x 2 satish satish 4096 Jan 29 17:36 avengers
+drwxr-xr-x 2 satish satish 4096 Jan 29 17:58 gardians
+drwxr-xr-x 2 satish satish 4096 Jan 29 17:36 justice_league
+drwxr-xr-x 2 satish satish 4096 Jan 29 18:07 original
+
+data/superheros/avengers:
+total 0
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 ant-man.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 black_panther.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 black_widow.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 captain_america.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 captain_marvel.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 doctor_strange.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 drax.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 falcon.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 gamora.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 groot.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 hawkeye.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 hulk.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 iron_man.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 mantis.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 rocket_racoon.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 spider-man.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 star-lord.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 thor.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 wasp.txt
+
+data/superheros/gardians:
+total 0
+-rw-r--r-- 1 satish satish 0 Jan 29 17:58 drax.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:58 gamora.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:58 groot.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:58 mantis.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:58 rocket_racoon.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:58 star-lord.txt
+
+data/superheros/justice_league:
+total 0
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 aquaman.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 batman.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 flash.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 green_lantern.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 martin_manhunter.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 superman.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 17:36 wonder_woman.txt
+
+data/superheros/original:
+total 0
+-rw-r--r-- 1 satish satish 0 Jan 29 18:04 barry_allen.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 18:04 bruce_wayne.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 18:05 brunce_banner.txt
+-rw-r--r-- 1 satish satish 0 Jan 29 18:03 tony_stark.txt
